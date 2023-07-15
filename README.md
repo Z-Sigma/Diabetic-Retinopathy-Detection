@@ -26,4 +26,4 @@ Further improvements can be made to enhance the performance of the model, such a
 
 The diabetic retinopathy detection project showcases the application of deep learning techniques for identifying and classifying retinal images related to diabetic retinopathy. With its custom CNN architecture and transfer learning approach, the project demonstrates the potential of machine learning models in assisting healthcare professionals in the early detection and management of diabetic retinopathy.
 
-Please refer to the documentation and code in this repository for more details on the implementation and usage of the diabetic retinopathy detection model.
+Please refer to the documentation and code in this repository for more details on the implementation and usage of the diabetic retinopathy detection.The model is in here: https://github.com/Z-Sigma/Diabetic-Retinopathy-Detection/blob/main/diabetic-retinopathy-final%20(1).ipynb
